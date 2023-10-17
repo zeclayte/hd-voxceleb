@@ -1,5 +1,5 @@
 # Computing with Hypervectors for Speaker Identification
-Use an N-gram based model (based on the priciples of Hyperdimensional Computing) to learn the statistics of acoustic signals over both time and frequency so that the unique pronunciation variations (courses of formants over time) between speakers can be captured.
+This work uses an N-gram based model (based on the priciples of Hyperdimensional Computing) to learn the statistics of acoustic signals over both time and frequency so that the unique pronunciation variations (courses of formants over time) between speakers can be captured.
 
 ## Data
 We used the VoxCeleb dataset [1] to develop and test the algorithm. It consists of speech from 1,251 speakers collected from YouTube videos. Each speaker has a folder, divided into a number
